@@ -17,4 +17,10 @@ body {
 
 img {
 	height: 80vh;
+	margin: 0.67em;
 }
+
+h1 {
+	margin: 0.67em;
+}
+
